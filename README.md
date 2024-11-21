@@ -61,6 +61,8 @@ Let’s Connect!
 
 ---
 
+Fun Fact
+I’m a coffee enthusiast and love exploring different brewing techniques.
 
 <!---
 Likhitha02-tech/Likhitha02-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
